@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb4f458478ee5d7f6d507c0991c8b6007b30b7592",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Vas3k Worm Club",
+  "SYMBOL": "VWC",
+  "MAX_SUPPLY": 270,
+  "WEI_COST": 1000000000000,
+  "DISPLAY_COST": 0.00001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-vas3k-worm-club",
+  "SHOW_BACKGROUND": true
+}
